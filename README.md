@@ -1,2 +1,2 @@
-# image_processing_class
-Repo for image processing student assignments 
+# Digital Image Processing
+This Repo is for image processing student assignments and instructional notebooks
